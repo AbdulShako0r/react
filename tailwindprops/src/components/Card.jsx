@@ -20,4 +20,6 @@ function Card({username , btntext="go next"}) {
   )
 }
 
+
+
 export default Card
